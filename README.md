@@ -8,11 +8,5 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-Выполненное тестовое задание. Не совсем понял про бесплатный хостинг, поэтому выложил базу данных со всеми соответствующими таблицами в репозитории elmikeev_test.sql(sales, orders, incomes, stocks)
-
-
-<<<<<<< HEAD
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
->>>>>>> 3dc8eff (creating_project)
-=======
->>>>>>> dfffc75 (adding readme)
+Выполненное тестовое задание. Соответствующие таблицы расположены в дампе(sales, orders, incomes, stocks)
+\\
